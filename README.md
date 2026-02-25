@@ -1,24 +1,20 @@
 # Simple Web Project
 
-This is a basic HTML project created as a starting point to learn GitHub, coding workflow, and publishing sites using GitHub Pages.
+This is a basic HTML + CSS + JavaScript project created to practice GitHub workflow, publishing with GitHub Pages, and web development basics.
 
 ## 🚀 Features
-- Displays a welcome message
+- Welcome message with personalisation
 - Shows current date and time
-- A button that changes the message on click
-- Hosted using GitHub Pages
+- Button interaction
+- Styled using CSS
 
-## 📁 Files in this project
+## 📁 Files in this Project
 - `index.html` — Main webpage
-
-## 💻 How to Run
-1. Download or clone this repository.
-2. Open `index.html` in any modern browser (Chrome, Edge, Firefox).
+- `style.css` — Styling for the webpage
+- `script.js` — JavaScript logic
 
 ## 🌍 Live Website
-Once GitHub Pages is enabled, your website will be available here:
-
-👉 `https://ybhavya330-lgtm.github.io/project/`
+👉 The site will be available once GitHub Pages is enabled.
 
 ## 🙌 Author
-Created by Bhavya to practice HTML, GitHub, and hosting skills.
+Created by Bhavya, practicing frontend + GitHub + cloud.
